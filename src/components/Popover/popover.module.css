@@ -1,0 +1,13 @@
+.popover {
+  position: relative;
+}
+
+.content {
+  position: absolute;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #fff;
+  border: 2px solid #ddd;
+  top: 150%;
+  left:0;
+}
